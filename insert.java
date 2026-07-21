@@ -1,3 +1,3 @@
 public class insert {
-    System.out.print("Hello world");
+    System.out.println("Heloo wrold")
 }
